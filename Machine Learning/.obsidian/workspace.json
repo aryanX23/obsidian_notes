@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "75e5b7baa2a49a74",
+    "type": "split",
+    "children": [
+      {
+        "id": "e849d0b457d07b7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea096b21b807448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gradient Descent Algorithm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9a50c7146fd4ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "eba514e8d356b005",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31c8e844dc97f4c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e563551b4da883aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "102af0417a59bee5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "c0c1a0f854569595",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3c7f5e704538c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e8caad36e8eda66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Gradient Descent Algorithm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40796dde4ca49225",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gradient Descent Algorithm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ddd9faeb66836686",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "589cfe18a4382e04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Gradient Descent Algorithm.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cea096b21b807448",
+  "lastOpenFiles": [
+    "Linear Regression Model.md",
+    "Important funtions in Python.md",
+    "Neural Networks.md",
+    "Supervised Machine Learning.md",
+    "Logistic Regression Model.md",
+    "Gradient Descent Algorithm.md",
+    "Images/Linear_Regression_Ex1.png",
+    "Images/Classification_Ex1.png",
+    "Unsupervised Machine Learning.md",
+    "Introduction to Machine Learning.md"
+  ]
+}

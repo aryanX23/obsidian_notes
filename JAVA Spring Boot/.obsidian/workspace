@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "696bc36f5122801b",
+    "type": "split",
+    "children": [
+      {
+        "id": "275533b8b92b01a4",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a3ff5003ecd42ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "10d87dc1fff4d8c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "effb4997f5dd38f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4dcbc336992f181a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6f442bfabc426cd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaf94c5e40f5eee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2ed8eee6d48b5bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd06c4cd6f84a636",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b8aa8f1f449122e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6f930fe996f05c15",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d108e4a96a2dd174",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "275533b8b92b01a4",
+  "lastOpenFiles": [
+    "Introduction to Spring Boot.md"
+  ]
+}

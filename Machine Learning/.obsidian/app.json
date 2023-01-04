@@ -1,0 +1,11 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "spellcheckLanguages": null,
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "attachmentFolderPath": "Images"
+}
