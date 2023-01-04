@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "75e5b7baa2a49a74",
+    "id": "696bc36f5122801b",
     "type": "split",
     "children": [
       {
-        "id": "db7d78d7794360a8",
+        "id": "ebb56ff6d3b12b39",
         "type": "tabs",
         "children": [
           {
-            "id": "3aeb17ef65d636d9",
+            "id": "275533b8b92b01a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Spring Boot.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a9a50c7146fd4ce2",
+    "id": "7a3ff5003ecd42ae",
     "type": "split",
     "children": [
       {
-        "id": "eba514e8d356b005",
+        "id": "10d87dc1fff4d8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "31c8e844dc97f4c4",
+            "id": "effb4997f5dd38f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "e563551b4da883aa",
+            "id": "4dcbc336992f181a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "102af0417a59bee5",
+            "id": "b6f442bfabc426cd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,22 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 300
   },
   "right": {
-    "id": "c0c1a0f854569595",
+    "id": "aaf94c5e40f5eee7",
     "type": "split",
     "children": [
       {
-        "id": "cf3c7f5e704538c2",
+        "id": "e2ed8eee6d48b5bc",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8caad36e8eda66",
+            "id": "dd06c4cd6f84a636",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction to Spring Boot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "40796dde4ca49225",
+            "id": "2b8aa8f1f449122e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction to Spring Boot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ddd9faeb66836686",
+            "id": "6f930fe996f05c15",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "589cfe18a4382e04",
+            "id": "d108e4a96a2dd174",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduction to Spring Boot.md"
+              }
             }
           }
         ]
@@ -138,17 +146,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aeb17ef65d636d9",
+  "active": "275533b8b92b01a4",
   "lastOpenFiles": [
-    "Important funtions in Python.md",
-    "Gradient Descent Algorithm.md",
-    "Linear Regression Model.md",
-    "Neural Networks.md",
-    "Supervised Machine Learning.md",
-    "Logistic Regression Model.md",
-    "Images/Linear_Regression_Ex1.png",
-    "Images/Classification_Ex1.png",
-    "Unsupervised Machine Learning.md",
-    "Introduction to Machine Learning.md"
+    "Introduction to Spring Boot.md"
   ]
 }
