@@ -11,8 +11,12 @@
             "id": "3aeb17ef65d636d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Introduction to Machine Learning.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Introduction to Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Introduction to Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Introduction to Machine Learning.md"
+              }
             }
           }
         ]
@@ -140,15 +148,15 @@
   },
   "active": "3aeb17ef65d636d9",
   "lastOpenFiles": [
+    "Neural Networks.md",
+    "Introduction to Machine Learning.md",
+    "Supervised Machine Learning.md",
     "Important funtions in Python.md",
     "Gradient Descent Algorithm.md",
     "Linear Regression Model.md",
-    "Neural Networks.md",
-    "Supervised Machine Learning.md",
     "Logistic Regression Model.md",
     "Images/Linear_Regression_Ex1.png",
     "Images/Classification_Ex1.png",
-    "Unsupervised Machine Learning.md",
-    "Introduction to Machine Learning.md"
+    "Unsupervised Machine Learning.md"
   ]
 }

@@ -109,3 +109,5 @@ NumPy 1-D np.dot(b, a) = 24, np.dot(a, b).shape = ()
 ```
 
 ***
+
+
