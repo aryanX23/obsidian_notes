@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "75e5b7baa2a49a74",
+    "id": "cc74b5a4e59360f0",
     "type": "split",
     "children": [
       {
-        "id": "db7d78d7794360a8",
+        "id": "470bdf88dbaea4fe",
         "type": "tabs",
         "children": [
           {
-            "id": "3aeb17ef65d636d9",
+            "id": "a2ac50c5ca101bd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neural Networks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a9a50c7146fd4ce2",
+    "id": "58a7bfe395146006",
     "type": "split",
     "children": [
       {
-        "id": "eba514e8d356b005",
+        "id": "70a547fb81ef8eb2",
         "type": "tabs",
         "children": [
           {
-            "id": "31c8e844dc97f4c4",
+            "id": "a1120a5de1cc43de",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "e563551b4da883aa",
+            "id": "e397ffce2c766690",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "102af0417a59bee5",
+            "id": "b8e2f5f4ba96ade2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -69,23 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 300
   },
   "right": {
-    "id": "c0c1a0f854569595",
+    "id": "4fe2923feb9bf63d",
     "type": "split",
     "children": [
       {
-        "id": "cf3c7f5e704538c2",
+        "id": "009b98ef469e9225",
         "type": "tabs",
         "children": [
           {
-            "id": "2e8caad36e8eda66",
+            "id": "f9f6fb535e866b2c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Neural Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "40796dde4ca49225",
+            "id": "8180848ab44a7aef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Neural Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ddd9faeb66836686",
+            "id": "14c035bb75466de9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "589cfe18a4382e04",
+            "id": "c317febd41355ba3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Neural Networks.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3aeb17ef65d636d9",
+  "active": "a2ac50c5ca101bd0",
   "lastOpenFiles": [
-    "Supervised Machine Learning.md",
-    "Unsupervised Machine Learning.md",
-    "Neural Networks.md",
-    "Introduction to Machine Learning.md",
-    "Important funtions in Python.md",
-    "Gradient Descent Algorithm.md",
-    "Linear Regression Model.md",
-    "Logistic Regression Model.md",
-    "Images/Linear_Regression_Ex1.png",
-    "Images/Classification_Ex1.png"
+    "1. Introduction to Dart Programming Language.md",
+    "2. Functions in DART.md"
   ]
 }
