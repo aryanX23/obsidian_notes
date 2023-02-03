@@ -75,4 +75,5 @@
 - Out of these five frameworks, TensorFlow has adopted Keras as its official high-level API. Keras is embedded in TensorFlow and can be used to perform deep learning fast as it provides inbuilt modules for all neural network computations. 
 - At the same time, computation involving tensors, computation graphs, sessions, etc can be custom made using the Tensorflow Core API, which gives you total flexibility and control over your application and lets you implement your ideas in a relatively short time.
 - ![[Pasted image 20230201124326.png]]
+Reference Lab : [[Neurons and Layers]]
 ***
