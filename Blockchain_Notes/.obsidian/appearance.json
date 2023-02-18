@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Royal Velvet"
+  "cssTheme": "Royal Velvet",
+  "baseFontSize": 23,
+  "showViewHeader": true
 }

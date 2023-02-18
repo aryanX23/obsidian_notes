@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37402dc5740d708d",
+            "id": "3de20f7f104b4de5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Introduction to Blockchain and Web 3.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Introduction to Blockchain and Web 3.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Introduction to Blockchain and Web 3.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "1. Introduction to Blockchain and Web 3.0.md"
               }
             }
           }
@@ -146,6 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37402dc5740d708d",
-  "lastOpenFiles": []
+  "active": "3de20f7f104b4de5",
+  "lastOpenFiles": [
+    "4. Concepts of Distributed Ledger and Decentralized Networks.md",
+    "3. Building blocks of Blockchain.md",
+    "2. Emergence of Web 3.0.md",
+    "1. Introduction to Blockchain and Web 3.0.md"
+  ]
 }
