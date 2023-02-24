@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introduction to Blockchain and Web 3.0.md",
+                "file": "2. Building Blocks of Blockchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c95b2a16f561a287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Building Blocks of Blockchain.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Introduction to Blockchain and Web 3.0.md",
+                "file": "2. Building Blocks of Blockchain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Introduction to Blockchain and Web 3.0.md",
+                "file": "2. Building Blocks of Blockchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Introduction to Blockchain and Web 3.0.md"
+                "file": "2. Building Blocks of Blockchain.md"
               }
             }
           }
@@ -146,11 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3de20f7f104b4de5",
+  "active": "1045614e31f22834",
   "lastOpenFiles": [
+    "images/Pasted image 20230224154025.png",
+    "images/Pasted image 20230224151050.png",
+    "images/Pasted image 20230224150847.png",
+    "1. Introduction to Blockchain and Web 3.0.md",
+    "2. Building Blocks of Blockchain.md",
     "4. Concepts of Distributed Ledger and Decentralized Networks.md",
     "3. Building blocks of Blockchain.md",
-    "2. Emergence of Web 3.0.md",
-    "1. Introduction to Blockchain and Web 3.0.md"
+    "2. Emergence of Web 3.0.md"
   ]
 }

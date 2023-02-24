@@ -1,7 +1,7 @@
 {
   "readableLineLength": false,
   "strictLineBreaks": true,
-  "spellcheck": true,
+  "spellcheck": false,
   "showInlineTitle": false,
   "promptDelete": false
 }
