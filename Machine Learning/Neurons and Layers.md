@@ -63,7 +63,7 @@ Now let's look at the weights and bias. These weights are randomly initialized t
 w, b= linear_layer.get_weights()
 print(f"w = {w}, b={b}"
 ```
-`w = [[-0.12]], b=[0.]
+`w = [[-0.12]], b=[0.]`
 
 *A linear regression model (1) with a single input feature will have a single weight and bias. This matches the dimensions of our `linear_layer` above.   
 
@@ -77,7 +77,7 @@ set_b = np.array([100])
 linear_layer.set_weights([set_w, set_b])
 print(linear_layer.get_weights())
 ```
-``[array([[200.]], dtype=float32), array([100.], dtype=float32)]
+``[array([[200.]], dtype=float32), array([100.], dtype=float32)]``
 
 *Comparing equation1 to the layer output- 
 ```
@@ -87,7 +87,7 @@ alin = np.dot(set_w,X_train[0].reshape(1,1)) + set_b
 print(alin)
 ```
 `tf.Tensor([[300.]], shape=(1, 1), dtype=float32)
-``[[300.]]
+``[[300.]]``
 *They produce the same values!
 Now, we can use our linear layer to make predictions on our training data.
 
@@ -122,7 +122,7 @@ neg = Y_train == 0
 X_train[pos]
 ```
 
-``array([3., 4., 5.], dtype=float32)
+``array([3., 4., 5.], dtype=float32)``
 
 ```
 pos = Y_train == 1
