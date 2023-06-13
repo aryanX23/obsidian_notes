@@ -1,39 +1,64 @@
 {
   "main": {
-    "id": "cc74b5a4e59360f0",
+    "id": "e25717a12101cd82",
     "type": "split",
     "children": [
       {
-        "id": "470bdf88dbaea4fe",
+        "id": "0d94ebb6cb21f7ee",
         "type": "tabs",
         "children": [
           {
-            "id": "a2ac50c5ca101bd0",
+            "id": "bb40fe9dfed037ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Functions in DART.md",
+                "file": "1. Fundamentals of Cloud Computing.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8660c784a4fa24d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Introduction to Amazon AWS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c182aba325c0cbc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "58a7bfe395146006",
+    "id": "7c1eda915aea7be5",
     "type": "split",
     "children": [
       {
-        "id": "70a547fb81ef8eb2",
+        "id": "0cdca84bb5bf6c11",
         "type": "tabs",
         "children": [
           {
-            "id": "a1120a5de1cc43de",
+            "id": "3943695ead304d01",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +68,7 @@
             }
           },
           {
-            "id": "e397ffce2c766690",
+            "id": "e56c6e9f415cf7da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +83,7 @@
             }
           },
           {
-            "id": "b8e2f5f4ba96ade2",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c4e1d3fcc7a7e29",
+            "id": "f10483bea2649e5e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "4fe2923feb9bf63d",
+    "id": "32fa72c036a588d5",
     "type": "split",
     "children": [
       {
-        "id": "009b98ef469e9225",
+        "id": "899479a356ce3b91",
         "type": "tabs",
         "children": [
           {
-            "id": "f9f6fb535e866b2c",
+            "id": "9ba4089c2121d7ce",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Functions in DART.md",
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +122,19 @@
             }
           },
           {
-            "id": "8180848ab44a7aef",
+            "id": "ba3346f0d46d8183",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Functions in DART.md",
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "14c035bb75466de9",
+            "id": "65bdf1f815be55ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +145,12 @@
             }
           },
           {
-            "id": "c317febd41355ba3",
+            "id": "15623bb4a2c62055",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Functions in DART.md"
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md"
               }
             }
           }
@@ -154,9 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2ac50c5ca101bd0",
+  "active": "3943695ead304d01",
   "lastOpenFiles": [
-    "1. Introduction to Dart Programming Language.md",
-    "2. Functions in DART.md"
+    "images/Pasted image 20230613153007.png",
+    "images/Pasted image 20230613151059.png",
+    "images/Pasted image 20230613125159.png",
+    "2. Introduction to Amazon AWS.md",
+    "1. Fundamentals of Cloud Computing.md",
+    "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
+    "images/Pasted image 20230613121241.png",
+    "images/Pasted image 20230613104745.png",
+    "images/Pasted image 20230613104614.png",
+    "images/Pasted image 20230529133107.png",
+    "images/Pasted image 20230529131306.png",
+    "images/Pasted image 20230528135916.png",
+    "images",
+    "images/Pasted image 20230528132536.png"
   ]
 }

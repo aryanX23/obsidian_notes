@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Basics of Solidity.md",
+                "file": "1. Introduction to Blockchain and Web 3.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "f6fb8291d4834bb4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Basics of Solidity.md",
+                "file": "1. Introduction to Blockchain and Web 3.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5. Basics of Solidity.md",
+                "file": "1. Introduction to Blockchain and Web 3.0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5. Basics of Solidity.md"
+                "file": "1. Introduction to Blockchain and Web 3.0.md"
               }
             }
           }
@@ -150,10 +158,10 @@
   "active": "dcd0e6d400d9c60d",
   "lastOpenFiles": [
     "4. Introduction to Ethereum.md",
+    "5. Basics of Solidity.md",
     "3. What is Bitcoin?.md",
     "2. Building Blocks of Blockchain.md",
     "1. Introduction to Blockchain and Web 3.0.md",
-    "5. Basics of Solidity.md",
     "images/Pasted image 20230319005100.png",
     "images/Pasted image 20230319004918.png",
     "images/Pasted image 20230318202851.png",
