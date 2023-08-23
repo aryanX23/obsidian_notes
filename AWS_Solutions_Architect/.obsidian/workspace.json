@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8e095eeb6e108d2",
+        "id": "144d947ee2c5f73a",
         "type": "tabs",
         "children": [
           {
-            "id": "f3288720ed6921a4",
+            "id": "d06f46cb2f08d844",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md"
+              }
             }
           }
         ]
@@ -138,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3288720ed6921a4",
+  "active": "d06f46cb2f08d844",
   "lastOpenFiles": [
+    "1. Fundamentals of Cloud Computing.md",
     "4. Elastic Block Storage (AMAZON EBS).md",
     "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
+    "2. Introduction to Amazon AWS.md",
     "images/Pasted image 20230615201801.png",
     "images/Pasted image 20230615201625.png",
     "images/Pasted image 20230615201307.png",
     "images/Pasted image 20230615200516.png",
     "images/Pasted image 20230615194231.png",
-    "2. Introduction to Amazon AWS.md",
-    "1. Fundamentals of Cloud Computing.md",
     "images/Pasted image 20230613153007.png",
     "images/Pasted image 20230613151059.png",
     "images/Pasted image 20230613125159.png",
