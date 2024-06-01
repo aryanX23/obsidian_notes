@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37734caa261162d6",
+            "id": "e01d78d72ba19659",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Docker Notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Docker Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Docker Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Docker Notes.md"
+              }
             }
           }
         ]
@@ -138,8 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37734caa261162d6",
+  "active": "7c5d855b896436ec",
   "lastOpenFiles": [
+    "Resources/Untitled.png",
+    "Resources/Untitled 4.png",
+    "Resources/Untitled 5.png",
+    "Resources/Untitled 7.png",
+    "Resources/Untitled 6.png",
+    "Resources/Untitled 2.png",
+    "Resources/Untitled 3.png",
+    "Resources/Untitled 1.png",
+    "Docker Notes.md",
+    "Resources",
+    "Docker Intro.md",
+    "Docker Definition.md",
     "Welcome.md"
   ]
 }
