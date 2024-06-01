@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "0cdaeeacd603110c",
+    "id": "5ef5f1b780cce8e5",
     "type": "split",
     "children": [
       {
-        "id": "e8a8ff5be737f914",
+        "id": "37feb80ab281f1ec",
         "type": "tabs",
         "children": [
           {
-            "id": "5591a7adf8c61e66",
+            "id": "37734caa261162d6",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "928bd8f3a847bca9",
+    "id": "b4e1f7910b597753",
     "type": "split",
     "children": [
       {
-        "id": "75b42cea4bfbd63d",
+        "id": "e0de798cbba5fc48",
         "type": "tabs",
         "children": [
           {
-            "id": "c938f9d0fd7ba8b9",
+            "id": "7c5d855b896436ec",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "901f43c3f9510c99",
+            "id": "17c499ac9c1e3de5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,15 +54,7 @@
             }
           },
           {
-            "id": "c41eabc452aba41c",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "c32a222d39fdf031",
+            "id": "03fe96acdef04261",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "8df02db05eff9822",
+    "id": "8155a56f1812c542",
     "type": "split",
     "children": [
       {
-        "id": "3d1736775a8a38ae",
+        "id": "d6d274364fa0f352",
         "type": "tabs",
         "children": [
           {
-            "id": "0f377f780e5c3a21",
+            "id": "56fd015ce4381cc2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,7 +92,7 @@
             }
           },
           {
-            "id": "cad4dc06eb81d027",
+            "id": "027e75f7addcb1ce",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -111,7 +103,7 @@
             }
           },
           {
-            "id": "cd7e95d21fddf9b2",
+            "id": "237d62406dc41012",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -122,7 +114,7 @@
             }
           },
           {
-            "id": "8abe3fb659d8d6a9",
+            "id": "213ce9515a485404",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,8 +138,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5591a7adf8c61e66",
+  "active": "37734caa261162d6",
   "lastOpenFiles": [
-    "JAVA Spring Boot/Introduction to Spring Boot.md"
+    "Welcome.md"
   ]
 }
