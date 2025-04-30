@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "144d947ee2c5f73a",
+        "id": "1bb2cd1b930d01e8",
         "type": "tabs",
         "children": [
           {
-            "id": "d06f46cb2f08d844",
+            "id": "d04d16541e2a3fd8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -115,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Amazon EC2(Amazon Elastic Compute Cloud).md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -146,12 +161,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d06f46cb2f08d844",
+  "active": "3943695ead304d01",
   "lastOpenFiles": [
-    "1. Fundamentals of Cloud Computing.md",
     "4. Elastic Block Storage (AMAZON EBS).md",
     "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
+    "Untitled.md",
+    "Identity and Access Management (IAM).md",
     "2. Introduction to Amazon AWS.md",
+    "1. Fundamentals of Cloud Computing.md",
+    "Amazon EC2(Amazon Elastic Compute Cloud).md",
+    "Elastic Block Storage (AMAZON EBS).md",
+    "images/Pasted image 20250430151942.png",
+    "images/Pasted image 20250430170554.png",
+    "images/Pasted image 20250430143956.png",
     "images/Pasted image 20230615201801.png",
     "images/Pasted image 20230615201625.png",
     "images/Pasted image 20230615201307.png",
@@ -159,9 +181,6 @@
     "images/Pasted image 20230615194231.png",
     "images/Pasted image 20230613153007.png",
     "images/Pasted image 20230613151059.png",
-    "images/Pasted image 20230613125159.png",
-    "images/Pasted image 20230613121241.png",
-    "images/Pasted image 20230613104745.png",
     "images"
   ]
 }
