@@ -2,8 +2,9 @@
   "focusNewTab": true,
   "defaultViewMode": "preview",
   "strictLineBreaks": false,
-  "spellcheck": false,
+  "spellcheck": true,
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "rightToLeft": false
 }
