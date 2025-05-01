@@ -11,10 +11,14 @@
             "id": "d04d16541e2a3fd8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Identity and Access Management (IAM).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Identity and Access Management (IAM)"
             }
           }
         ]
@@ -163,12 +167,17 @@
   },
   "active": "3943695ead304d01",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Identity and Access Management (IAM).md",
+    "images/Pasted image 20250501182017.png",
+    "images/Pasted image 20250501181833.png",
+    "images/Pasted image 20250501174257.png",
+    "Amazon EC2(Amazon Elastic Compute Cloud).md",
     "2. Introduction to Amazon AWS.md",
     "1. Fundamentals of Cloud Computing.md",
-    "Amazon EC2(Amazon Elastic Compute Cloud).md",
+    "Identity and Access Management (IAM).md",
     "Elastic Block Storage (AMAZON EBS).md",
+    "4. Elastic Block Storage (AMAZON EBS).md",
+    "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
+    "Untitled.md",
     "images/Pasted image 20250430151942.png",
     "images/Pasted image 20250430170554.png",
     "images/Pasted image 20250430143956.png",
@@ -177,8 +186,6 @@
     "images/Pasted image 20230615201307.png",
     "images/Pasted image 20230615200516.png",
     "images/Pasted image 20230615194231.png",
-    "images/Pasted image 20230613153007.png",
-    "images/Pasted image 20230613151059.png",
     "images"
   ]
 }

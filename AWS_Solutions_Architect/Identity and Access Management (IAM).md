@@ -19,3 +19,47 @@
 
 ---
 
+# IAM Policies Structure :
+
+![[Pasted image 20250501174257.png | 1400]]
+
+---
+
+# IAM - Password Policy: 
+
+- ﻿﻿Strong passwords = higher security for your account
+- ﻿﻿In AWS, you can setup a password policy:
+	- ﻿﻿Set a minimum password length
+	- ﻿﻿Require specific character types:
+		- ﻿﻿including uppercase letters
+		- ﻿﻿lowercase letters
+		- ﻿﻿numbers
+		- ﻿﻿non-alphanumeric characters
+	- ﻿﻿Allow all IAM users to change their own passwords
+	- ﻿﻿Require users to change their password after some time (password expiration)
+	- ﻿﻿Prevent password re-use
+
+---
+# Multi Factor Authentication - MFA
+
+- ﻿﻿Users have access to your account and can possibly change configurations or delete resources in your AWS account
+- ﻿﻿You want to protect your Root Accounts and IAM users
+- ﻿﻿MFA = password you know + security device you own
+
+## Main benefit of MFA:
+
+- If a password is stolen or hacked, the account is not compromised
+## Types of MFA Device : 
+
+- Virtual MFA Device - Like Google Authenticator or Authy on Phone (Supports Multiple tokens on a single device)
+- Universal 2nd Factor (U2F) Security Key - Support for multiple root and IAM users using a single security key
+  
+  ![[Pasted image 20250501181833.png | 500]]
+  
+- Hardware Key Fob MFA Device
+- Hardware Key Fob MFA Device for AWS GovCloud (US)
+  
+  ![[Pasted image 20250501182017.png | 500]]
+
+---
+
