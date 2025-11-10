@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "0cdaeeacd603110c",
+    "id": "75e5b7baa2a49a74",
     "type": "split",
     "children": [
       {
-        "id": "e8a8ff5be737f914",
+        "id": "c84d0799c2f081d9",
         "type": "tabs",
         "children": [
           {
-            "id": "5591a7adf8c61e66",
+            "id": "88dea5ecbfec7dc1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "LLD/LLD Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLD Basics"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "928bd8f3a847bca9",
+    "id": "a9a50c7146fd4ce2",
     "type": "split",
     "children": [
       {
-        "id": "75b42cea4bfbd63d",
+        "id": "eba514e8d356b005",
         "type": "tabs",
         "children": [
           {
-            "id": "c938f9d0fd7ba8b9",
+            "id": "31c8e844dc97f4c4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "901f43c3f9510c99",
+            "id": "e563551b4da883aa",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "c41eabc452aba41c",
+            "id": "102af0417a59bee5",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "c32a222d39fdf031",
+            "id": "b5276e3aaea747f0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,22 +88,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
-    "id": "8df02db05eff9822",
+    "id": "c0c1a0f854569595",
     "type": "split",
     "children": [
       {
-        "id": "3d1736775a8a38ae",
+        "id": "cf3c7f5e704538c2",
         "type": "tabs",
         "children": [
           {
-            "id": "0f377f780e5c3a21",
+            "id": "2e8caad36e8eda66",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LLD/SOLID Principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,24 +114,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SOLID Principles"
             }
           },
           {
-            "id": "cad4dc06eb81d027",
+            "id": "40796dde4ca49225",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LLD/SOLID Principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SOLID Principles"
             }
           },
           {
-            "id": "cd7e95d21fddf9b2",
+            "id": "ddd9faeb66836686",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -141,17 +147,18 @@
             }
           },
           {
-            "id": "8abe3fb659d8d6a9",
+            "id": "589cfe18a4382e04",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "LLD/SOLID Principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of SOLID Principles"
             }
           }
         ]
@@ -172,10 +179,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5591a7adf8c61e66",
+  "active": "88dea5ecbfec7dc1",
   "lastOpenFiles": [
-    "System Design",
-    "New folder",
-    "JAVA Spring Boot/Introduction to Spring Boot.md"
+    "LLD/SOLID Principles.md",
+    "LLD/LLD Basics.md",
+    "Images/has-a-relationship.png",
+    "Images/Inheritance.png",
+    "Images/Composition.png",
+    "Images/AGGREAGTION.png",
+    "Images",
+    "Untitled.md",
+    "LLD",
+    "Neurons and Layers.md",
+    "-0.12.md",
+    "Neural Networks.md",
+    "Logistic Regression Model.md",
+    "Important funtions in Python.md",
+    "Gradient Descent Algorithm.md",
+    "0.63.md",
+    "Supervised Machine Learning.md",
+    "Unsupervised Machine Learning.md",
+    "Introduction to Machine Learning.md",
+    "Linear Regression Model.md"
   ]
 }

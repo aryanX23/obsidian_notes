@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Border",
+  "translucency": true,
+  "baseFontSize": 24,
+  "accentColor": "",
+  "showViewHeader": true,
+  "showRibbon": true,
+  "baseFontSizeAction": false
+}
