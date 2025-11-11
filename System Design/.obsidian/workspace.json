@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLD/LLD Basics.md",
+                "file": "LLD/SOLID Principles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LLD Basics"
+              "title": "SOLID Principles"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "88dea5ecbfec7dc1",
   "lastOpenFiles": [
-    "LLD/SOLID Principles.md",
     "LLD/LLD Basics.md",
+    "LLD/SOLID Principles.md",
     "Images/has-a-relationship.png",
     "Images/Inheritance.png",
     "Images/Composition.png",
