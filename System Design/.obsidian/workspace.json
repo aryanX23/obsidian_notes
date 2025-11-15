@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLD/SOLID Principles.md",
+                "file": "LLD/Strategy Design Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOLID Principles"
+              "title": "Strategy Design Pattern"
             }
           }
         ]
@@ -182,6 +182,7 @@
   "active": "88dea5ecbfec7dc1",
   "lastOpenFiles": [
     "LLD/LLD Basics.md",
+    "LLD/Strategy Design Pattern.md",
     "LLD/SOLID Principles.md",
     "Images/has-a-relationship.png",
     "Images/Inheritance.png",
