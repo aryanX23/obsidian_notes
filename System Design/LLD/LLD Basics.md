@@ -3,6 +3,8 @@ Goal is to -
 - Write *Clean* Code.
 - Code should be *flexible* and *maintainable*.
 - Code should be *easy to test*.
+
+All of these below design patterns aims to enforce [[SOLID Principles]] throughout the program.
 # Low Level Design Pattern Categories
 
 ## Creational Design Patterns
