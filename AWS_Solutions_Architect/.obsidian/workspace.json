@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Identity and Access Management (IAM).md",
+                "file": "1. Fundamentals of Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Identity and Access Management (IAM).md",
+                "file": "1. Fundamentals of Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Identity and Access Management (IAM).md",
+                "file": "1. Fundamentals of Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Identity and Access Management (IAM).md"
+                "file": "1. Fundamentals of Cloud Computing.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3943695ead304d01",
+  "active": "d04d16541e2a3fd8",
   "lastOpenFiles": [
+    "Identity and Access Management (IAM).md",
     "images/Pasted image 20250501182017.png",
     "images/Pasted image 20250501181833.png",
     "images/Pasted image 20250501174257.png",
     "Amazon EC2(Amazon Elastic Compute Cloud).md",
     "2. Introduction to Amazon AWS.md",
     "1. Fundamentals of Cloud Computing.md",
-    "Identity and Access Management (IAM).md",
     "Elastic Block Storage (AMAZON EBS).md",
     "4. Elastic Block Storage (AMAZON EBS).md",
     "3. Amazon EC2(Amazon Elastic Compute Cloud).md",
@@ -166,7 +166,6 @@
     "images/Pasted image 20230615201625.png",
     "images/Pasted image 20230615201307.png",
     "images/Pasted image 20230615200516.png",
-    "images/Pasted image 20230615194231.png",
     "images"
   ]
 }
