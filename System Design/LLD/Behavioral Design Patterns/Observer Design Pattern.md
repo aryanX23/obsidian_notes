@@ -1,4 +1,4 @@
-**Observer Pattern** is one of the [[Behavioral Patterns]]. Observer design pattern is useful when you are interested in the state of an object and want to get notified whenever there is any change. In observer pattern, the object that watch on the state of another object are called **Observer** and the object that is being watched is called **Subject**.
+**Observer Pattern** is one of the [[Behavioral Design Patterns]]. Observer design pattern is useful when you are interested in the state of an object and want to get notified whenever there is any change. In observer pattern, the object that watch on the state of another object are called **Observer** and the object that is being watched is called **Subject**.
 
 Observer design pattern intent is - 
 
@@ -65,14 +65,14 @@ public class MyTopic implements Subject {
 	public void register(Observer obj) {
 		if(obj == null) throw new NullPointerException("Null Observer");
 		synchronized (MUTEX) {
-		if(!observers.contains(obj)) observers.add(obj);
+			if(!observers.contains(obj)) observers.add(obj);
 		}
 	}
 
 	@Override
 	public void unregister(Observer obj) {
 		synchronized (MUTEX) {
-		observers.remove(obj);
+			observers.remove(obj);
 		}
 	}
 
@@ -119,15 +119,15 @@ public class MyTopicSubscriber implements Observer {
 	private Subject topic;
 	
 	public MyTopicSubscriber(String nm){
-		this.name=nm;
+		this.name = nm;
 	}
 	@Override
 	public void update() {
 		String msg = (String) topic.getUpdate(this);
 		if(msg == null){
 			System.out.println(name+":: No new message");
-		}else
-		System.out.println(name+":: Consuming message::"+msg);
+		} else
+			System.out.println(name+":: Consuming message::"+msg);
 	}
 
 	@Override

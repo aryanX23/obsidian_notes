@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c6e96e325efc1f0",
+        "id": "ca5e10e1ad47797b",
         "type": "tabs",
         "children": [
           {
-            "id": "2f4834b65deeb197",
+            "id": "228eeffd8715a7f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LLD/Creation Design Patterns/Abstract Factory Method Pattern.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Abstract Factory Method Pattern"
             }
           }
         ]
@@ -175,20 +179,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f4834b65deeb197",
+  "active": "228eeffd8715a7f8",
   "lastOpenFiles": [
-    "LLD/LLD Basics.md",
-    "LLD/Behavioral Design Patterns/Behavioral Patterns.md",
+    "LLD/Creation Design Patterns/Factory Method Pattern.md",
+    "LLD/Structural Design Pattern/Decorator Design Pattern.md",
+    "LLD/Structural Design Pattern/Structural Design Patterns.md",
     "LLD/SOLID Principles.md",
-    "LLD/Behavioral Design Patterns/Observer Design Pattern.md",
-    "LLD/Behavioral Design Patterns/Strategy Design Pattern.md",
-    "LLD/Behavioral Design Patterns/Untitled.md",
-    "Images/Observer_class_diagram.png",
-    "LLD/Behavioral Design Patterns",
+    "LLD/LLD Basics.md",
+    "Creation Patterns.md",
+    "LLD/Creation Design Patterns/Creation Design Patterns.md",
+    "LLD/Creation Design Patterns/Abstract Factory Method Pattern.md",
+    "Images/Pasted image 20260622221855.png",
+    "LLD/Creation Design Patterns",
+    "Images/AGGREAGTION.png",
+    "Images/Composition.png",
     "Images/has-a-relationship.png",
     "Images/Inheritance.png",
-    "Images/Composition.png",
-    "Images/AGGREAGTION.png",
+    "Images/Observer_class_diagram.png",
+    "Images/Pasted image 20260622212042.png",
+    "Decorator Design Pattern.md",
+    "LLD/Behavioral Design Patterns/Behavioral Design Patterns.md",
+    "Chain of Responsibility Design Pattern.md",
+    "LLD/Behavioral Design Patterns/Strategy Design Pattern.md",
+    "LLD/Behavioral Design Patterns/Observer Design Pattern.md",
+    "Structural Patterns.md",
+    "LLD/Structural Design Pattern",
+    "LLD/Behavioral Design Patterns/Untitled.md",
+    "LLD/Behavioral Design Patterns",
     "Images",
     "Untitled.md",
     "LLD",
@@ -201,7 +218,6 @@
     "0.63.md",
     "Supervised Machine Learning.md",
     "Unsupervised Machine Learning.md",
-    "Introduction to Machine Learning.md",
-    "Linear Regression Model.md"
+    "Introduction to Machine Learning.md"
   ]
 }

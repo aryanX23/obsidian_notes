@@ -10,17 +10,17 @@ All of these below design patterns aims to enforce [[SOLID Principles]] througho
 ## Creational Design Patterns
 
 - It *controls the object creation*, aka, how the objects of a class should be created.
-- Various Types of [[Creation Patterns]] include - 
+- Various Types of [[Creation Design Patterns]] include - 
 	- [[Singleton Design Pattern]]
 	- [[Builder Design Pattern]]
-	- [[Factory and Abstract Factory Design Pattern]]
+	- [[Factory Method Pattern]] and [[Abstract Factory Method Pattern]]
 	- [[Object Pool Design Pattern]]
 	- [[Prototype Design Pattern]]
 
-## Structural Design Pattern
+## [[Structural Design Patterns]]
 
 - It focuses on, how different classes/objects are arranged so that larger problems can be solved in most flexible way. It gives your code a *Skeleton* for the code to be written upon.
-- Various types of [[Structural Patterns]] include - 
+- Various types of [[Structural Design Patterns]] include - 
 	- [[Decorator Design Pattern]]
 	- [[Proxy Design Pattern]]
 	- [[Composite Design Pattern]]
@@ -29,10 +29,10 @@ All of these below design patterns aims to enforce [[SOLID Principles]] througho
 	- [[Facade Design Pattern]]
 	- [[Flyweight Design Pattern]]
 
-## Behavioral Design Pattern
+## [[Behavioral Design Patterns]]
 
 - It focuses on how different objects communicate or interact with each other.
-- In other words, with the above [[Structural Patterns]] we created the *skeleton on the system* but how that skeleton behaves (co-ordination, responsibility, interaction) is all guided by [[Behavioral Patterns]].
+- In other words, with the above [[Structural Design Patterns]] we created the *skeleton on the system* but how that skeleton behaves (co-ordination, responsibility, interaction) is all guided by [[Behavioral Design Patterns]].
 - Various Types of Behavioral Design Patterns include - 
 	- [[State Design Pattern]]
 	- [[Strategy Design Pattern]]
