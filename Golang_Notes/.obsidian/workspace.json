@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4861d08d4b3beb8a",
+        "id": "fc22a23e01d39bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "7cb8fa4a97274931",
+            "id": "f47cd82e3c406c51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Golang Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Golang Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -185,8 +181,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "7cb8fa4a97274931",
+  "active": "f47cd82e3c406c51",
   "lastOpenFiles": [
+    "images/11_memory_management_new_vs_make_0215.png",
+    "images/10_build_go_env_0130.png",
+    "images/07_userinput_bufio_docs_0255.png",
+    "images/06_variables_numeric_types_spec_0735.png",
+    "images/05_lexer_types_slide_0545.png",
+    "images/03_install_vscode_go_extension_0750.png",
+    "Golang Notes.md",
+    "fmt Package and Format Verbs.md",
+    "Go Quick Reference.md",
     "Error Handling in Go.md"
   ]
 }
